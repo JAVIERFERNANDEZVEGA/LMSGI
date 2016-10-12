@@ -4,9 +4,21 @@ En este repositorio LMSGI -TEMA01 están los archivos de texto plano con leguaje
 
 1. [HTML Y CSS] (https://github.com/JAVIERFERNANDEZVEGA/LMSGI-TEMA01/blob/master/ejemplo%20HTML%20Y%20CSS.html)
 <!DOCTYPE html>
-"<html>"
-"<head>"
-"<title>Pruebas html</title>"
+*<html>
+*<head>
+*<title>Pruebas html</title>
+*<style>
+*p {
+*    text-align: center;
+*    color: red;
+*}
+*</style>
+*</head>
+*<body>
+*<h1>Esto es una prueba</h1>
+*<p>Hola mundo soy una prueba html.</p>
+*</body>
+*</html>
 
 
 
