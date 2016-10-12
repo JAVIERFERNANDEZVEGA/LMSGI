@@ -9,5 +9,6 @@ Archivo **HTML con CSS** contiene una línea h1 y un párrafo que gracias a un c
 Archivo *PostScript* que contiene "Hola mundo" ,el resultado se imprime con letra *courier* tamaño letra 20 *selectfont* y el cursor de coordenadas 72,500
 3. [RTF] (https://github.com/JAVIERFERNANDEZVEGA/LMSGI-TEMA01/blob/master/prueba%20rtf.rtf).
 **Archivo RTF** que contiene "Esto es una prueba " con fuente *Times New Roman*
+
 4. [XML] (https://github.com/JAVIERFERNANDEZVEGA/LMSGI-TEMA01/blob/master/prueba%20xml.xml).
 Archivo XML con etiquetas creadas para ordenar los datos  de una ficha de datos personales
